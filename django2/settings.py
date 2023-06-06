@@ -82,8 +82,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'django2',
-        'USER': 'nome_usuario_mysql', #após instalar o mysql no ubuntu
-        'PASSWORD': 'senha_criada', #após instalar o mysql no ubuntu
+        'USER': 'root', #após instalar o mysql no ubuntu
+        'PASSWORD': 'augusto123', #após instalar o mysql no ubuntu
         'HOST': 'localhost',
         'PORT': '3306'
     }
